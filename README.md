@@ -1,4 +1,0 @@
-scala
-=====
-
-language feature demos

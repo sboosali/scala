@@ -1,0 +1,4 @@
+$ javac hello/Hello.java
+$ java hello/Hello
+Java calling Java
+$ scala ScalaCallsJava.scala
